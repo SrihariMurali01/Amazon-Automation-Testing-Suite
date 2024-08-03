@@ -55,7 +55,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This title "AutoPilot: Amazon Automation & Testing Suite" gives the project a catchy and professional name, reflecting its purpose and capabilities. Feel free to customize it further if needed!
