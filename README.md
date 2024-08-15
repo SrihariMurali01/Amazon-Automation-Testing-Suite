@@ -51,7 +51,3 @@ The test execution logs are saved in the `amazon_test_log_20240802_110936.log` f
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. Make sure to follow the existing coding style and include appropriate tests for any new features.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
